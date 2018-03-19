@@ -28,7 +28,5 @@ def find_the_cheese(array)# code an argument here
     "gouda"
   elsif array.include?("camembert")
     "camembert"
-  else
-    false
   end
 end
