@@ -30,4 +30,5 @@ def find_the_cheese(array)# code an argument here
     cheese_types[3]
   else
     false  
+  end
 end
